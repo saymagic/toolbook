@@ -16,6 +16,7 @@
 * [Chrome插件](chrome插件.md)
     * [octotree](octotree.md)
     * [markdown-here](markdown-here.md)
+    * [Extensions Manager](extensions-manager.md)
 * [Chrome应用](chrome应用.md)
     * [Gliffy Diagrams](gliffy-diagrams.md)
     * [Post Man](post-man.md)
