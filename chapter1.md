@@ -1,4 +1,4 @@
 # 网络
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+现在的程序几乎都离不开网络，学会一些网络的调试技巧十分有必要。
 
