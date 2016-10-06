@@ -15,6 +15,7 @@
         * [kdiff3](kdiff3.md)
 * [Chrome插件](chrome插件.md)
     * [octotree](octotree.md)
+    * [markdown-here](markdown-here.md)
 * [Chrome应用](chrome应用.md)
     * [Gliffy Diagrams](gliffy-diagrams.md)
 
