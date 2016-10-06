@@ -13,4 +13,7 @@
     * [Git](git.md)
         * [SourceTree](sourcetree.md)
         * [kdiff3](kdiff3.md)
+* [Chrome插件](chrome插件.md)
+* [Chrome应用](chrome应用.md)
+    * Gliffy Diagrams
 
