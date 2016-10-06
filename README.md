@@ -8,6 +8,16 @@
 
 如果文章中有误或者工具失效的话，您可以在下方评论或者Email。
 
+
+
+## 阅读地址：
+
+\[https:\/\/tool.saymagic.cn\/\]\(https:\/\/tool.saymagic.cn\/\)
+
+## Github地址：
+
+\[https:\/\/github.com\/saymagic\/toolbook\]\(https:\/\/github.com\/saymagic\/toolbook\)
+
 ## Author
 
 Email : [saymagic.dev@gmail.com](/saymagic.dev@gmail.com)
