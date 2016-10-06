@@ -17,6 +17,7 @@
     * [octotree](octotree.md)
     * [markdown-here](markdown-here.md)
     * [Extensions Manager](extensions-manager.md)
+    * [vimium](vimium.md)
 * [Chrome应用](chrome应用.md)
     * [Gliffy Diagrams](gliffy-diagrams.md)
     * [Post Man](post-man.md)
