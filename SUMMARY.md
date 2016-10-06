@@ -12,5 +12,5 @@
 * [版本管理](版本管理.md)
     * [Git](git.md)
         * SourceTree
-        * kdiff3
+        * [kdiff3](kdiff3.md)
 
