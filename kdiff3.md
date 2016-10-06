@@ -9,9 +9,22 @@
 * 配置.gitconfig
 
 * ```
-[merge] tool = kdiff3[mergetool] keepBackup = false[diff] tool = kdiff3 guitool = kdiff3[difftool "kdiff3"] trustExitCode = false
-
+  [merge] 
+  tool = kdiff3
+  [mergetool]
+  keepBackup = false
+  [diff]
+  tool = kdiff3
+  guitool = kdiff3
+  [difftool "kdiff3"]
+  trustExitCode = false
   ```
 
-* 
+* 使用
+
+* ```
+  git mergetool
+  ```
+
+* 效果
 
