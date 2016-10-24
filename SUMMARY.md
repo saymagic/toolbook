@@ -23,4 +23,6 @@
     * [Gliffy Diagrams](gliffy-diagrams.md)
     * [Post Man](post-man.md)
     * [Vysor](vysor.md)
+* 截图
+    * [licecap](licecap.md)
 
