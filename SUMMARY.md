@@ -25,4 +25,6 @@
     * [Vysor](vysor.md)
 * 截图
     * [licecap](licecap.md)
+* 实用
+    * [electron-pdf](electron-pdf.md)
 
