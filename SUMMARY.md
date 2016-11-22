@@ -27,6 +27,7 @@
    * [licecap](licecap.md)
 * 实用
    * [electron-pdf](electron-pdf.md)
+   * Shadowsocks
 * [mac](mac.md)
    * [m p v](mp v.md)
 
