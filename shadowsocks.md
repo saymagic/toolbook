@@ -40,5 +40,7 @@
 
 ## 问题
 
-* 
+* locale error: unsupported locale setting
+  
+   - export LC_ALL=C
     
